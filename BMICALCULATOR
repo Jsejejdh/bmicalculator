@@ -1,0 +1,4 @@
+h=input("enter your height")
+w=input("enter your weight")
+BMI=w/(h*h)
+print(BMI)
